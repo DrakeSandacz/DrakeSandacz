@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hello, 👋 I'm Drake!
+##  Aspiring to be a Software Engineer
+- 🔭 I’m currently a CS Undergrad student at Northern Illinois University
+- 🌱 I'm currently learning COBOL & Computer Architecture
+- 📫 How to reach me: sandaczdrake@gmail.com
 <!--
 **DrakeSandacz/DrakeSandacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
