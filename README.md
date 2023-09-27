@@ -4,8 +4,7 @@
 - 🌱 I'm currently learning COBOL & Computer Architecture
 - 📫 How to reach me: sandaczdrake@gmail.com
 - 😄 Connect with me: [https://www.linkedin.com/in/drake-sandacz-codes/]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrakeSandacz)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrakeSandacz&layout=compact)
 <!--
 **DrakeSandacz/DrakeSandacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
