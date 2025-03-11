@@ -2,7 +2,7 @@
 ###  Aspiring Software Engineer
 - 🔭 Recent graduate from Northern Illinois University 
 - 🌱 I'm currently learning COBOL & Computer Architecture
-- 📫 How to reach me: sandaczdrake@gmail.com
+- 📫 How to reach me: carsodrake@gmail.com
 - 😄 Connect with me: [https://www.linkedin.com/in/drake-sandacz-codes/]
 
 
